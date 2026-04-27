@@ -1,10 +1,10 @@
-# 🏥 Patient Analysis — Power BI Project
+# Patient Analysis — Power BI Project
 
 A data analytics project built with **Microsoft Power BI** that visualises and analyses patient records to surface healthcare insights. The `.pbix` report is backed by two raw CSV datasets.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 PowerBI_Project/
@@ -15,7 +15,7 @@ PowerBI_Project/
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 | Detail | Info |
 |--------|------|
@@ -26,7 +26,7 @@ PowerBI_Project/
 
 ---
 
-## 🔍 Features
+## Features
 
 - **Patient Records Analysis** — Explore patient demographics, admission details, and key attributes from `pr.csv`.
 - **Treatment & Transaction Insights** — Analyse treatment patterns and related data from `tr.csv`.
@@ -35,7 +35,7 @@ PowerBI_Project/
 
 ---
 
-## 📂 Data Files
+## Data Files
 
 | File | Description |
 |------|-------------|
@@ -44,14 +44,10 @@ PowerBI_Project/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Microsoft Power BI Desktop
 - CSV (data source)
 - DAX (Data Analysis Expressions) for measures and calculations
 - Power Query (M language) for data transformation
 
-
-## 📄 License
-
-This project is for educational and portfolio purposes.
